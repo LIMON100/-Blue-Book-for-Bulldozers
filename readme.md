@@ -34,4 +34,16 @@ Divided the work into 4 major part.
 
 In this part mainly visualize the dataset with different expect.Try to find out the which columns are important, is there any relation between them or many more things.
 
-## 
+### 2 . Feature Engineering
+
+Create some new features from the existing one to find out better outcome.
+
+
+### 3 . Data Preprocessing
+
+Delete the unnecessary columns and divided into train and test.
+
+
+### 4 . Apply Model
+
+In this project there only two ML algorithms apply.
